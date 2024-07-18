@@ -33,6 +33,6 @@ export function Activities() {
           </div>
         </div>
       </div>
-    </div>
+    </div> 
   )
 }
