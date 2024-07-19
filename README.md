@@ -1,30 +1,25 @@
-# React + TypeScript + Vite
+<h1 align="center"> NLW Journey </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Projeto realizado no evento NLW Journey da [Rocketseat](https://www.rocketseat.com.br) com o objetivo de aprofundar os conhecimentos em React.js e JavaScript. A aplicação consiste em um planejador de viagens onde é possível selecionar data e destino, além de enviar convites por e-mail e cadastrar atividades.
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="desafio04" src=".github/preview.png" width="100%">
+</p>
+<p align="center">
+  <img alt="desafio04" src=".github/preview2.png" width="100%">
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologias
 
-## Expanding the ESLint configuration
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- HTML e CSS
+- Tailwind
+- Java Script
+- Typescript
+- React.js
+- Figma
 
-- Configure the top-level `parserOptions` property like this:
+## 🔖 Layout
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Você pode visualizar o layout do projeto através [DESSE LINK](<https://www.figma.com/design/VkcdqA0iK8a2ToWak72Ctm/NLW-Journey-%E2%80%A2-Planejador-de-viagem-(Community)?node-id=7101-739&t=KUsNnnSTUj4UQXZz-0>). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
